@@ -1,4 +1,4 @@
-# forwardPort
+# ForwardPort
 
 一个基于 iptables 的 Linux 端口转发脚本：把本机的某个端口转发到远程 `IP:端口`，**同时转发 TCP 和 UDP**，并附带"默认拒绝入站"的简易防火墙。
 
